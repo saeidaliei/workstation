@@ -1,0 +1,2 @@
+# workstation
+Personal workstation configuration.
