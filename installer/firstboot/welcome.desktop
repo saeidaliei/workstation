@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Name=i3-Omarchy Welcome
-Comment=First-login welcome and rice setup
-Exec=/opt/i3-omarchy-installer/firstboot/firstboot.sh
-Terminal=false
-OnlyShowIn=XFCE;i3;GNOME;KDE;
-X-GNOME-Autostart-enabled=true
